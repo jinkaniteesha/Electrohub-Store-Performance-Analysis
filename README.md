@@ -98,6 +98,5 @@ The dataset contains detailed information on store operations, including:
 
 This project exemplifies how **Power BI** and **data analytics** can be leveraged to extract meaningful insights from operational data. By addressing Electrohub’s sales performance through interactive and visually rich dashboards, this analysis highlights opportunities for growth and operational improvement.
 
---- 
 ## Contact
 For questions or feedback, please contact jinkaniteesha@gmail.com
